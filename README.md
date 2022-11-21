@@ -1,2 +1,2 @@
-# CssModules
+# ReactCss
 Created with CodeSandbox
